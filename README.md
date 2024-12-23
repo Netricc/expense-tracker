@@ -1,5 +1,5 @@
 # expense tracker app
-simple expense tracker built with react and simple css, bases on the react feature [context API](https://react.dev/reference/react/createContext). Deployed in [Netlify](https://www.netlify.com/)
+simple expense tracker built with react and simple css, bases on the react feature [context API](https://react.dev/reference/react/createContext) . Deployed in [Netlify](https://www.netlify.com/)
 
 ## 🚀 **Getting Started**
 Follow these steps to clone the repository and start coding:
