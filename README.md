@@ -1,5 +1,5 @@
 # expense tracker app
-simple calc webapp built with react js and tailwind css. Deployed in Netlify
+simple expense tracker built with react and simple css, bases on the react feature [context API](https://react.dev/reference/react/createContext). Deployed in Netlify
 
 ## 🚀 **Getting Started**
 Follow these steps to clone the repository and start coding:
