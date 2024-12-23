@@ -1,8 +1,53 @@
-# React + Vite
+# expense tracker app
+simple calc webapp built with react js and tailwind css. Deployed in Netlify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 **Getting Started**
+Follow these steps to clone the repository and start coding:
 
-Currently, two official plugins are available:
+### 1. Clone the Repository
+```bash
+# Use this command to clone the repository
+git clone https://github.com/Netricc/expense-tracker.git
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 2. Navigate to the Project Directory
+```bash
+cd expense-tracker
+```
+
+### 3. Install Dependencies
+If the project uses any package manager (e.g., npm):
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+```bash
+# If using npm
+default run: npm start
+
+# Otherwise, open index.html in your browser
+```
+
+---
+
+## 🖋️ **Creator Info**
+This project was created by **Netric Master**. 
+
+- 📧 Email: [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)  
+- 💡 Feel free to contact me for any questions or suggestions!
+
+---
+
+## 🌟 **Contribute**
+Love this project? Contributions are welcome! You can:
+- Open an issue for any bug or feature request.
+- Submit a pull request with your changes.
+- Spread the word about this project! 🚀
+
+---
+
+## ❤️ **Thank You**
+Thank you for checking out this project! I hope it inspires you to create amazing websites and elevate your web development skills.
+
+---
